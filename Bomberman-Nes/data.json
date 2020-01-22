@@ -1,0 +1,40 @@
+{
+  "info": {
+    "time": {
+      "address": 147,
+      "type": "|u1"
+    },
+    "lives": {
+      "address": 104,
+      "type": "|u1"
+    },
+    "score": {
+      "address": 0,
+      "type": "<n8"
+    },
+    "stage": {
+      "address": 88,
+      "type": "|u1"
+    },
+    "walls": {
+      "address": 164,
+      "type": "|u1"
+    },
+    "bombsPlaced": {
+      "address": 165,
+      "type": "|u1"
+    },
+    "x": {
+      "address": 40,
+      "type": "|u1"
+    },
+    "y": {
+      "address": 32,
+      "type": "|u1"
+    },
+    "action": {
+      "address": 16,
+      "type": "|u1"
+    }
+  }
+}
